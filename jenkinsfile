@@ -8,7 +8,7 @@ pipeline {
                 }
                 stage("stage 2") {   
                      steps {
-                          echo 'changed output2442'
+                          echo 'changed gyjygjgjhgjhg'
                      }
                 }
            }
